@@ -1,7 +1,7 @@
 # STM32 Development Master Guide - Modular Version
 
 Visit Site: https://affanmhz.github.io/STM_tutorials/
-Open on Large screen for best experience
+### Open on Large screen for best experience
 ## 📁 Project Structure
 
 This is the modularized version of the STM32 Development Master Guide, split into separate files for easier maintenance and customization.
