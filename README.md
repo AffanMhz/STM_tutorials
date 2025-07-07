@@ -47,11 +47,11 @@ Then open `http://localhost:8000` in your browser.
 
 ## 📱 Browser Compatibility
 
-- ✅ Safari (macOS/iOS)
-- ✅ Chrome/Chromium
-- ✅ Firefox
-- ✅ Edge
-- ✅ Mobile browsers
+- Safari (macOS/iOS)
+- Chrome/Chromium
+- Firefox
+- Edge
+- Mobile browsers
 
 ## 🎨 Customization
 
